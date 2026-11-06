@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/cacoo/commit/0821dbe96967de4c6ec16ea811163c50c7b437f6",
       "git:hexsha": "0821dbe96967de4c6ec16ea811163c50c7b437f6",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/cacoo/commit/70ad9b3a36c56e0b1411bbbb3b342b89aa8657e4",

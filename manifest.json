@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "sphinx-contrib",
+  "repo": "cacoo",
+  "versions": [
+    {
+      "commit": "0821dbe96967de4c6ec16ea811163c50c7b437f6",
+      "parsed_at": "2026-11-06T08:38:48.223523+00:00",
+      "filetree": "filetree/0821dbe96967de4c6ec16ea811163c50c7b437f6.nq.gz",
+      "blobs": [
+        "blob/c2eb7df7818cd20a944d362e5ada1b73193cba4d.nq.gz",
+        "blob/62d66630bb71f20525127abe9cb6e9144b73c6e1.nq.gz",
+        "blob/9d4c00f9d6bc03866900ac20aadabf203cd22756.nq.gz",
+        "blob/2eba9160d403563d8b100534a4d950281de057e6.nq.gz",
+        "blob/300e100e3a1ba7b735f0ebc80bda2b42d78a8922.nq.gz",
+        "blob/8e7e2bc0d26ebc39199523caf9850ff62f3d650a.nq.gz",
+        "blob/bfdbe9ac05d69ac822cc31a082bef4a3b183e2e3.nq.gz",
+        "blob/b5a7dc29ef0f7f3593b1c61cfc5dfe8a17d3918c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
